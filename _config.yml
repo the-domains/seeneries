@@ -1,0 +1,28 @@
+name: seeneries
+favicon: null
+layout_spectrum: 0.9268819352146238
+typography_spectrum: 0.01300937426276505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8163610121700913
+  lightness: 0.3585525029338896
+  saturation: 0.030514714075252414
+  rhythmicContrast: 0.46885732701048255
+purpose: []
